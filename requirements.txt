@@ -33,7 +33,7 @@ keyrings.alt==3.0
 language-selector==0.1
 lxml==4.2.4
 MarkupSafe==1.0
-numpy==1.15.0
+numpy==1.22.0
 oauthlib==2.0.6
 openpyxl==2.5.5
 PAM==0.4.2
