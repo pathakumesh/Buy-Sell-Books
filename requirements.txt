@@ -56,7 +56,7 @@ PyYAML==3.12
 queuelib==1.5.0
 requests==2.18.4
 requests-unixsocket==0.1.5
-Scrapy==1.5.1
+Scrapy==2.6.2
 scrapy-rotating-proxies==0.5
 SecretStorage==2.3.1
 service-identity==16.0.0
